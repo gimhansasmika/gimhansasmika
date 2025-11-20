@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Gimhan Sasmika</h1>
-<h3 align="center">Software Engineering Undergraduate in Sri Lanka</h3>
+<h3 align="center">Software Engineering Undergraduate Student in Sri Lanka</h3>
 
 ### My Topic
 
